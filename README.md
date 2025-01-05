@@ -24,4 +24,11 @@ This analysis is based on a limited dataset, and future work should focus on:
 - Further investigating the high mass tail
 - Including detector effects and systematic uncertainties to improve the precision of the results
 
+## Binder Link
+You are free to explore my notebook and interact with the results of the analysis using the following Binder link:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MelihaDelalic/Python-DielectronAnalysis.git/HEAD)
+
+## Note 
+All the sources and data links can be found in both the notebook and the report document.
+
 
